@@ -1,0 +1,23 @@
+body{
+    background-color:  	#DEB887;
+    font-family: "Brush Script MT", Georgia, cursive;
+    
+}
+
+p{
+    color: saddlebrown;
+    font-size: 18px;
+}
+
+h1, h2{
+    color: brown;
+}
+
+img{
+    height: auto;
+    width: 500px;
+}
+
+ul{
+    font-size: 20px;
+}
